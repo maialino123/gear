@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T02:33:04.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="8Zl21C9uy1N8NeuzbJnO" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-05T02:41:20.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="cCapdBp3e7hlxQKVG0DU" version="14.2.9" type="github">
   <diagram id="T8B1dIIbFUSZPmH1k9Zf" name="Page-1">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="P213O2ZD02GaUFhkQxCM-5" value="van_chuyen" style="whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="640" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="45zXevBs85bNKtD13Wdb-1" value="nha_cung_cap" style="whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="180" y="540" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
