@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-06T13:41:56.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="OCHUK5mI4BMtLZp8PhqH" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-06T13:54:12.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="GjCYM2zOnL4InnySsU9O" version="14.2.9" type="github">
   <diagram id="T8B1dIIbFUSZPmH1k9Zf" name="Page-1">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -107,9 +107,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="45zXevBs85bNKtD13Wdb-9" value="hinh_thuc_thanh&lt;br&gt;toan" style="whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="180" y="310" width="100" height="40" as="geometry" />
+          <mxGeometry x="190" y="350" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="45zXevBs85bNKtD13Wdb-10" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;strokeColor=#457B9D;fillColor=#A8DADC;endFill=0;curved=1;labelBackgroundColor=#F1FAEE;fontColor=#1D3557;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="45zXevBs85bNKtD13Wdb-9" target="TwAFZX_iqUqQGNb1OVvr-12" edge="1">
+        <mxCell id="45zXevBs85bNKtD13Wdb-10" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;strokeColor=#457B9D;fillColor=#A8DADC;endFill=0;curved=1;labelBackgroundColor=#F1FAEE;fontColor=#1D3557;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="45zXevBs85bNKtD13Wdb-9" target="P213O2ZD02GaUFhkQxCM-4" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="640" y="340" as="sourcePoint" />
             <mxPoint x="280" y="270" as="targetPoint" />
