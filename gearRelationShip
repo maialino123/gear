@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T09:44:56.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="WKR6i0HdEsVUhzGRpJgB" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-08T09:50:25.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Rs_GBUfO1r3sUcc9HcjF" version="14.2.9" type="github">
   <diagram id="T8B1dIIbFUSZPmH1k9Zf" name="Page-1">
-    <mxGraphModel dx="2523" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -469,6 +469,27 @@
         </mxCell>
         <mxCell id="FYnw_v5ATD0fJ1Ji3XI1-63" value="status&lt;br&gt;(bit)" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="950" y="1080" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FYnw_v5ATD0fJ1Ji3XI1-65" value="" style="endArrow=none;html=1;labelBackgroundColor=#F1FAEE;fontColor=#1D3557;startArrow=ERmany;startFill=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#9D3014;spacing=11;" edge="1" parent="1" target="FYnw_v5ATD0fJ1Ji3XI1-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1340" as="sourcePoint" />
+            <mxPoint x="520" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FYnw_v5ATD0fJ1Ji3XI1-66" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#FFFFCC;align=left;" vertex="1" parent="1">
+          <mxGeometry x="780" y="640" width="310" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="FYnw_v5ATD0fJ1Ji3XI1-67" value="&lt;h1&gt;Chú Thích:&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;fontColor=#638DFF;verticalAlign=bottom;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="780" y="640" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FYnw_v5ATD0fJ1Ji3XI1-69" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="790" y="680" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FYnw_v5ATD0fJ1Ji3XI1-72" value=":" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#638DFF;fontSize=50;" vertex="1" parent="1">
+          <mxGeometry x="860" y="680" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FYnw_v5ATD0fJ1Ji3XI1-73" value="&lt;font color=&quot;#000000&quot;&gt;Thực Thể&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;sketch=0;fontSize=13;fontColor=#638DFF;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="910" y="692.5" width="90" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
