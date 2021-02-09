@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T10:57:58.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="2CK15uxmotSvi1PmdG49" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-09T11:03:28.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="T0lBhzNLTXH99bWmg5BI" version="14.3.0" type="github">
   <diagram id="T8B1dIIbFUSZPmH1k9Zf" name="Page-1">
     <mxGraphModel dx="2272" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -796,6 +796,24 @@
         </mxCell>
         <mxCell id="9Olz8aBaA6K4y7mPqrO5-50" value="danh_muc" style="whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Olz8aBaA6K4y7mPqrO5-51" value="id_danh_muc&lt;br&gt;(bigint)" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1400" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Olz8aBaA6K4y7mPqrO5-52" value="" style="endArrow=none;html=1;fillColor=#A8DADC;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;strokeColor=#9D9300;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Olz8aBaA6K4y7mPqrO5-50" target="9Olz8aBaA6K4y7mPqrO5-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="1570" as="sourcePoint" />
+            <mxPoint x="1107.02" y="1506.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Olz8aBaA6K4y7mPqrO5-53" value="ten_danh_muc&lt;br&gt;(nvarchar)" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#457B9D;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1400" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Olz8aBaA6K4y7mPqrO5-54" value="" style="endArrow=none;html=1;fillColor=#A8DADC;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;strokeColor=#9D9300;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Olz8aBaA6K4y7mPqrO5-50" target="9Olz8aBaA6K4y7mPqrO5-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1410" y="1570" as="sourcePoint" />
+            <mxPoint x="1365" y="1470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
